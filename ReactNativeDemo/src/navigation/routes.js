@@ -1,0 +1,4 @@
+export const RouteNames = {
+  LOGINSCREEN: 'LOGINSCREEN',
+  SIGNUPSCREEN: 'SIGNUPSCREEN',
+};
